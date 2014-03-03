@@ -1051,7 +1051,7 @@ header.mobile_nav a.belfastruby:active {
     font-size: 88px;
   }
 }
-@media screen and (max-width: 1024px) {
+@media all and (max-width: 1024px) and (max-device-witdth: 1024px) and (orientation: landscape) {
   /* line 15, ../sass/_mediaqueries.scss */
   .top-details {
     width: 100%;
