@@ -10,7 +10,8 @@
   }
 }
 
-@media all and (max-width: 1040px) {
+@media all and (max-width: 1040px),
+       only screen and (max-width: 1024px) {
 
 .top-details{
   width: 100%;
