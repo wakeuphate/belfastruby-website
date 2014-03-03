@@ -1051,7 +1051,7 @@ header.mobile_nav a.belfastruby:active {
     font-size: 88px;
   }
 }
-@media all and (max-width: 1040px), only screen and (max-width: 1024px) {
+@media all and (max-width: 1024px), only screen and (max-width: 1024px) {
   /* line 16, ../sass/_mediaqueries.scss */
   .top-details {
     width: 100%;
