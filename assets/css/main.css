@@ -1051,44 +1051,44 @@ header.mobile_nav a.belfastruby:active {
     font-size: 88px;
   }
 }
-@media all and (max-width: 1024px), only screen and (max-width: 1024px) {
-  /* line 16, ../sass/_mediaqueries.scss */
+@media screen and (max-width: 1024px) {
+  /* line 15, ../sass/_mediaqueries.scss */
   .top-details {
     width: 100%;
   }
 
-  /* line 21, ../sass/_mediaqueries.scss */
+  /* line 20, ../sass/_mediaqueries.scss */
   .main-event-details .content-bulk, .main-event-details .intro {
     width: 100%;
   }
-  /* line 24, ../sass/_mediaqueries.scss */
+  /* line 23, ../sass/_mediaqueries.scss */
   .main-event-details h3 {
     padding-bottom: 1.5em;
   }
 }
 @media all and (max-width: 940px) {
-  /* line 33, ../sass/_mediaqueries.scss */
+  /* line 32, ../sass/_mediaqueries.scss */
   h1 {
     font-size: 85px;
     padding-top: 0.2em;
   }
 
-  /* line 38, ../sass/_mediaqueries.scss */
+  /* line 37, ../sass/_mediaqueries.scss */
   .bio, .contact {
     width: 100%;
   }
 
-  /* line 42, ../sass/_mediaqueries.scss */
+  /* line 41, ../sass/_mediaqueries.scss */
   .bio {
     padding: 0 0 2em 0;
   }
 }
 @media all and (max-width: 885px) {
-  /* line 50, ../sass/_mediaqueries.scss */
+  /* line 49, ../sass/_mediaqueries.scss */
   .sponsor-details ul {
     padding: 1.7em 0 1em 0;
   }
-  /* line 52, ../sass/_mediaqueries.scss */
+  /* line 51, ../sass/_mediaqueries.scss */
   .sponsor-details ul li {
     width: 100%;
     text-align: center;
@@ -1097,159 +1097,159 @@ header.mobile_nav a.belfastruby:active {
     border-left: solid 1px #efefef;
     border-right: solid 1px #efefef;
   }
-  /* line 59, ../sass/_mediaqueries.scss */
+  /* line 58, ../sass/_mediaqueries.scss */
   .sponsor-details ul li:last-child {
     border-bottom: solid 1px #efefef;
     padding-bottom: 2.1em;
   }
-  /* line 63, ../sass/_mediaqueries.scss */
+  /* line 62, ../sass/_mediaqueries.scss */
   .sponsor-details ul li img {
     width: 40%;
     max-width: 230px;
   }
 }
 @media all and (max-width: 850px) {
-  /* line 74, ../sass/_mediaqueries.scss */
+  /* line 73, ../sass/_mediaqueries.scss */
   h1 {
     font-size: 75px;
     padding: 0 0 0.5em 0;
   }
 
-  /* line 79, ../sass/_mediaqueries.scss */
+  /* line 78, ../sass/_mediaqueries.scss */
   .small-info {
     width: 100%;
     padding-bottom: 2em;
   }
-  /* line 82, ../sass/_mediaqueries.scss */
+  /* line 81, ../sass/_mediaqueries.scss */
   .small-info a.red-btn {
     display: block;
     margin: 15px 0 0 0;
   }
 }
 @media all and (max-width: 768px) {
-  /* line 92, ../sass/_mediaqueries.scss */
+  /* line 91, ../sass/_mediaqueries.scss */
   body {
     background: url(../images/ruby-shape.svg) no-repeat 190px 0;
   }
 
-  /* line 96, ../sass/_mediaqueries.scss */
+  /* line 95, ../sass/_mediaqueries.scss */
   header.normal_nav {
     display: none;
   }
 
-  /* line 100, ../sass/_mediaqueries.scss */
+  /* line 99, ../sass/_mediaqueries.scss */
   header.mobile_nav {
     display: block;
   }
 
-  /* line 104, ../sass/_mediaqueries.scss */
+  /* line 103, ../sass/_mediaqueries.scss */
   h1 {
     padding-top: 1.7em;
   }
 
-  /* line 108, ../sass/_mediaqueries.scss */
+  /* line 107, ../sass/_mediaqueries.scss */
   .sponsor-details {
     padding: 45px 0;
   }
 
-  /* line 112, ../sass/_mediaqueries.scss */
+  /* line 111, ../sass/_mediaqueries.scss */
   ul.ruby-links li p {
     width: 100%;
   }
 }
 @media all and (max-width: 660px) {
-  /* line 120, ../sass/_mediaqueries.scss */
+  /* line 119, ../sass/_mediaqueries.scss */
   .logo {
     float: left;
     padding-bottom: 15px;
   }
-  /* line 123, ../sass/_mediaqueries.scss */
+  /* line 122, ../sass/_mediaqueries.scss */
   .logo img {
     max-width: 120px;
   }
 
-  /* line 126, ../sass/_mediaqueries.scss */
+  /* line 125, ../sass/_mediaqueries.scss */
   h1 {
     font-size: 60px;
     padding: 1.5em 0 0.5em 0;
   }
 
-  /* line 131, ../sass/_mediaqueries.scss */
+  /* line 130, ../sass/_mediaqueries.scss */
   .small-info a.red-btn {
     margin: 25px 0 0 0;
   }
 
-  /* line 135, ../sass/_mediaqueries.scss */
+  /* line 134, ../sass/_mediaqueries.scss */
   .main-event-details {
     padding: 70px 0 0 0;
   }
 
-  /* line 139, ../sass/_mediaqueries.scss */
+  /* line 138, ../sass/_mediaqueries.scss */
   .sponsor-details ul {
     padding: 1.7em 0 1em 0;
   }
-  /* line 141, ../sass/_mediaqueries.scss */
+  /* line 140, ../sass/_mediaqueries.scss */
   .sponsor-details ul li {
     padding: 1.6em 0;
   }
-  /* line 143, ../sass/_mediaqueries.scss */
+  /* line 142, ../sass/_mediaqueries.scss */
   .sponsor-details ul li:last-child {
     border-bottom: solid 1px #efefef;
     padding-bottom: 1.6em;
   }
-  /* line 147, ../sass/_mediaqueries.scss */
+  /* line 146, ../sass/_mediaqueries.scss */
   .sponsor-details ul li img {
     width: 60%;
   }
 }
 @media all and (max-width: 540px) {
-  /* line 157, ../sass/_mediaqueries.scss */
+  /* line 156, ../sass/_mediaqueries.scss */
   h2 {
     padding: 1.3em 0 0.3em 0;
   }
 
-  /* line 161, ../sass/_mediaqueries.scss */
+  /* line 160, ../sass/_mediaqueries.scss */
   h2 a .br-number {
     display: block;
     border: none;
   }
 }
 @media all and (max-width: 480px) {
-  /* line 171, ../sass/_mediaqueries.scss */
+  /* line 170, ../sass/_mediaqueries.scss */
   body {
     background: none;
   }
 
-  /* line 175, ../sass/_mediaqueries.scss */
+  /* line 174, ../sass/_mediaqueries.scss */
   h1 {
     font-size: 38px;
     padding: 2.2em 0 0.5em 0;
   }
 
-  /* line 180, ../sass/_mediaqueries.scss */
+  /* line 179, ../sass/_mediaqueries.scss */
   .main-event-details .intro h3, .main-event-details p {
     font-size: 18px;
     line-height: 29px;
   }
 
-  /* line 185, ../sass/_mediaqueries.scss */
+  /* line 184, ../sass/_mediaqueries.scss */
   .main-event-details {
     padding: 70px 0 0 0;
   }
 
-  /* line 189, ../sass/_mediaqueries.scss */
+  /* line 188, ../sass/_mediaqueries.scss */
   a.bar {
     font-size: 14px;
     line-height: 1.2em;
     padding: 1em;
   }
 
-  /* line 195, ../sass/_mediaqueries.scss */
+  /* line 194, ../sass/_mediaqueries.scss */
   footer {
     padding: 2.5em 0;
   }
 
-  /* line 199, ../sass/_mediaqueries.scss */
+  /* line 198, ../sass/_mediaqueries.scss */
   footer .bio p, footer .contact li a {
     font-size: 18px;
     line-height: 29px;
